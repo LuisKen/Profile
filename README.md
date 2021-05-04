@@ -1,2 +1,2 @@
 # Profile
-![](https://komarev.com/ghpvc/?LuisKen=https://github.com/LuisKen)
+![](https://komarev.com/ghpvc/?username=https://github.com/LuisKen)
